@@ -17,4 +17,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Paris
           use_prebuilt_image: yes
+          plugin_achievements: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_followup: yes
+          plugin_followup_indepth: yes
           
