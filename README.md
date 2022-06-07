@@ -7,7 +7,3 @@ I'm a fullstack developer. I love open source.
 
 
 ![Metrics](/github-metrics.svg)
-
-# GPG
-
-
