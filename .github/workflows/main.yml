@@ -12,6 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: git     
+        run: |
+             git config --global user.name "0xMRTT"
+             git config --global user.email "0xMRTT@tuta.io"
+
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
