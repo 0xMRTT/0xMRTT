@@ -1,6 +1,6 @@
 module github.com/0xMRTT
        
-go 1.18
+go 1.19
           
 require (    
   github.com/git/git v2.36.1+incompatible // indirect
