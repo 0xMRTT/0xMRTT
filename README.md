@@ -2,4 +2,4 @@
 
 ![](./github-metrics.svg)
 
-See my projects 👇
+See my top projects 👇
